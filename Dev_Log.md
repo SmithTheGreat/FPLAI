@@ -1,5 +1,5 @@
 This file documents my line of thinking while building and debugging this project.  
-Each entry encases what I tried, what went wrong(if something was wrong), my reasoning, and the solution or next step.
+Each entry encases what I noticed was wrong, my reasoning for why my initial code was wrong, what I tried to fix it, what went wrong during my implementation(if something was wrong), and the solutions or next steps I am taking.
 
 ## Log Entries:
 
