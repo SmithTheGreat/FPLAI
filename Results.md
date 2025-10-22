@@ -19,3 +19,4 @@ The goal is to monitor consistency, analyze performance trends, and identify are
 | 5         | Sep 20-21   | 42         | 112            | 40        | 7,278,709 | 2              | None         |
 | 6         | Sep 27-29   | 46         | 124            | 45        | 5,916,959 | 1              | None         |
 | 7         | Oct 3-5     | 60         | 135            | 69        | 3,889,804 | 2(-4 pts)      | None         |
+| 8         | Oct 18-20   | 56         | 185            | 86        | 257,309   | 0              | None         |
