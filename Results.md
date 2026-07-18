@@ -1,4 +1,4 @@
-This log tracks my Fantasy Premier League performance across each gameweek of the 2025–26 season.  
+This log tracks my Fantasy Premier League performance across each gameweek of the 2025–26 season. For context,there were 13,107,732 total players of Fantasy Premier League during the 2025-2026 season.
 For every gameweek, I record:
 - The gameweek number and dates
 - The average points scored by all managers
